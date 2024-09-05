@@ -1,0 +1,37 @@
+Project Narratives
+
+1.Give a description of your projects:
+a. Why were you brought there initially?
+b. (Mobile) What the current state of app and production environment upon your arrival?
+c. (Mobile) What was the app and what does it do?
+d. (Mobile) Who was the end user of the app?
+e. (Mobile) What did you specifically implement feature wise in the app and how?
+f. What percent of time did you lead and what percent of time did you code?
+g. What challenges did you face in the production environment and in development and how did you address them? 
+h. What was the size of the team and break down of roles?
+i. How did you manage the day-to-day production environment, task management and tool, documentation standards? 
+j. What was the testing environment like? What tools and practices were used to manage sound code?
+k. What weekly standing meetings were present, who was present, and what was discussed? How did you run the scrum meeting?
+
+2. define 2-3 major concepts of your actual, tangible contribution to the app and production environment  (assessing current state, level setting expectations, redefining processes and technologies, and addressing any existing bugs and perfecting/updating the existing code before moving onto new features)
+IF - From scratch
+a. The tools used to accomplish the requirements and making decisions related to this (data storage, data access, architecture, design, testing, driving the production environment)
+b. Architecture awareness – Delve into your understanding and decision-making process around system architecture. Highlight any trade-offs or considerations you had to make and why
+c. Layouts awareness - Discuss your approach to designing user interfaces or system layouts, ensuring that the end-user experience is seamless.  
+d. Gathering requirements ability and having those meetings with stakeholders
+e. What did you specifically implement feature wise and how
+f. SDLC - share how you adhered to the Software Development Life Cycle, ensuring that all phases were effectively managed and executed
+g. QA - Discuss any testing strategies employed, challenges faced, and how you ensured that the final product was free of critical bugs
+
+IF - From Existing production environment
+a. Quickly learning and combing through code base and other existing technologies used in production
+b. Check the current reviews about the product and app based on end-user experience and work to improvement those
+c. Looking through the crash logs and looking through any existing bugs in the back log to address
+d. Looking through the entirety of the back log of tasks (if any) to come up with a plan based on priority to address throughout the SDLC (of course, keeping in mind the MVP)
+e. Re-defining the production environment practices and coding style to best practice (OOP, for example) 
+
+3. An example of technical failure in a production environment, why, how did you rectify, and what is your key learning from this to take forward into your future development practice?
+
+Now - Tell us about this project.  (Why you were hired, status at the time, How did you work with your team to accomplish goal, skills/tech you used, issue resolved, what are the deliverables)
+
+Can you answer all the following questions based on my past job experience
