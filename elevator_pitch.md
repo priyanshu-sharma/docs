@@ -15,7 +15,5 @@ Currently, I am a Lead Big Data and Cloud Engineer at Truist Financial, where I'
 
 I am proficient with a range of tools and technologies, including AWS (S3, Redshift, EMR, Lambda), GCP (BigQuery, Cloud Composer), data engineering frameworks like Apache Spark and Airflow, and programming languages like SQL, Python, and Scala. I also have experience with Terraform for infrastructure automation, which I see as crucial for building and maintaining resilient data systems.
 
-I’m particularly excited about the opportunity to leverage my skills and experience in a dynamic environment where data-driven decisions are central to the company's growth strategy. I’m eager to contribute my expertise to help drive impactful data solutions.
-
-I'd love to know, from your perspective, what would be the biggest challenge in this role, and how can someone in this position make a difference right from day one?
+I’m glad to be here in this interview and I'm eager to know more about this project and understand how can I help!
 ```
