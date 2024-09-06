@@ -35,3 +35,59 @@ e. Re-defining the production environment practices and coding style to best pra
 Now - Tell us about this project.  (Why you were hired, status at the time, How did you work with your team to accomplish goal, skills/tech you used, issue resolved, what are the deliverables)
 
 Can you answer all the following questions based on my past job experience
+
+
+Project Narratives
+
+1. The tools used to accomplish the requirements and making decisions related to this (data storage, data access, architecture, design, testing, driving the production environment)
+2. Architecture awareness – Delve into your understanding and decision-making process around system architecture. Highlight any trade-offs or considerations you had to make and why
+3. Layouts awareness - Discuss your approach to designing user interfaces or system layouts, ensuring that the end-user experience is seamless.  
+4. Gathering requirements ability and having those meetings with stakeholders
+5. What did you specifically implement feature wise and how
+6. SDLC - share how you adhered to the Software Development Life Cycle, ensuring that all phases were effectively managed and executed
+7. QA - Discuss any testing strategies employed, challenges faced, and how you ensured that the final product was free of critical bugs
+8. Now - Tell us about this project.  (Why you were hired, status at the time, How did you work with your team to accomplish goal, skills/tech you used, issue resolved, what are the deliverables)
+
+Job experience
+
+Aug 2021 – Sep 2023 · Sr. Data Engineer · Centene Corporation, St. Louis, MO
+
+
+    • Leveraged the Cloud Storage Transfer Service for swift and secure data movement between on-premises systems and GCP at Centene.
+    • Engineered and sustained large-scale data processing and analysis pipelines with Apache Spark and Python on Google Cloud Platform (GCP).
+    • Transferred data to optimal storage solutions like Google Cloud Storage (GCS), Bigtable, or BigQuery tailored to analytical needs.
+    • Employed Google Dataprep to ensure clean and prepared data during migration, with monitoring by Cloud Monitoring.
+    • Managed data migration using Cloud Composer for a smooth and controlled process.
+    • Crafted and executed efficient data models and schema designs in BigQuery for enhanced querying and storage.
+    • Integrate Hive with other Big Data tools and frameworks such as Apache Pig, Spark, and Kafka to build end-to-end data processing and analytics solutions. 
+    • Defined a scalable and comprehensive data architecture that integrates Snowflake, Oracle, GCP services, and other essential components.
+    • Applied Vertex AI Pipelines (formerly Kubeflow Pipelines) to orchestrate machine learning workflows on GCP.
+    • Set up and configured BigQuery datasets, tables, and views for effective storage and management of transformed data.
+    • Established data quality checks and validation rules to ensure data accuracy and reliability in BigQuery.
+    • Linked BigQuery with other GCP services for various purposes, including data visualization (Data Studio), AI/ML analysis, and long-term data archiving (Cloud Storage).
+    • Employed Google Cloud Storage for data ingestion and Pub/Sub for event-driven data processing.
+    • Design and implement data models and schemas in Hive to represent complex business requirements, ensuring data integrity and optimal performance for analytics queries. 
+    • Developed ETL pipelines using methods like CDC (Change Data Capture) or scheduled batch processing to extract data from Oracle databases and transfer it to BigQuery.
+    • Implemented Cloud Billing reports and recommendations to enhance and optimize GCP resource usage for cost-efficiency.
+    • Implement ETL pipelines using Apache Airflow to extract data from various sources, transform it into a usable format, and load it into data warehouses or data lakes for analytics and reporting.
+    • Integrate DBT with data warehouse solutions such as Snowflake, BigQuery, Redshift, or Azure Synapse, ensuring seamless data transformation and modeling within the data ecosystem.
+    • Configure DBT to interact with data warehouses, including setting up connections, managing schema changes, and handling data versioning. 
+    • Develop custom operators and sensors in Airflow to handle specific data transformation and loading tasks, ensuring seamless integration with Big Data technologies such as Hadoop, Spark, and Kafka. 
+    • Formulated data models and schema designs for Snowflake data warehouses to support intricate analytical queries and reporting.
+    • Write Scala-based ETL pipelines to extract, transform, and load (ETL) data into Big Data platforms, optimizing performance for handling massive datasets. 
+    • Managed diverse data sources (structured, semi-structured, unstructured) to design data integration solutions on GCP.
+    • Executed real-time data processing using Spark, GCP Cloud Composer, and Google Dataflow with PySpark ETL jobs for effective analysis.
+    • Developed data ingestion pipelines (Snowflake staging) from various sources and data formats to enable real-time analytics.
+    • Connected data pipelines with various data visualization and BI tools like Tableau and Looker for generating dashboards and reports.
+    • Guided junior data engineers, offering mentorship on ETL best practices, Snowflake, Snowpipes, and JSON.
+    • Implemented infrastructure provisioning using Terraform for consistent and repeatable environments across different project stages.
+    • Utilized Kubernetes to manage the deployment, scaling, and lifecycle of Docker containers.
+    • Enhanced ETL and batch processing jobs for performance, scalability, and reliability using Spark, YARN, and GCP DataProc.
+    • Administered and optimized GCP resources (VMs, storage, network) for cost-effectiveness and performance.
+    • Configured Cloud Identity & Access Management (IAM) roles to ensure least privilege access to GCP resources at Centene.
+    • Integrate Scala-based applications with Big Data ecosystems, including Apache Hadoop, Hive, HBase, Cassandra, and others, to enable efficient data storage and retrieval. 
+    • Utilized Google Cloud Composer to build and deploy data pipelines as DAGs using Apache Airflow.
+    • Built a machine learning pipeline using Apache Spark and scikit-learn for training and deploying predictive models.
+    
+Can you answer all the project Narratives questions based on my past job experience
+
