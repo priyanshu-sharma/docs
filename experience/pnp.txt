@@ -91,3 +91,30 @@ Aug 2021 – Sep 2023 · Sr. Data Engineer · Centene Corporation, St. Louis, MO
     
 Can you answer all the project Narratives questions based on my past job experience
 
+
+Truist Financial provides several API services, mainly focused on enabling integration with its financial products and services. These APIs are designed to facilitate various banking and financial functionalities for developers and businesses. Some of the key API services offered by Truist include:
+
+1. **Account and Transaction APIs**: These APIs allow access to account information and transaction history. They support functions like retrieving account balances, transaction details, and other related financial data.
+
+2. **Payment Initiation APIs**: These APIs enable the initiation of payments directly from a user’s account. This includes ACH (Automated Clearing House) transactions, wire transfers, and other payment methods.
+
+3. **Authentication and Identity APIs**: These APIs are used for verifying the identity of users and managing authentication flows, such as Single Sign-On (SSO) and OAuth integrations.
+
+4. **Open Banking and PSD2 APIs**: Truist also supports open banking APIs compliant with PSD2 (Payment Services Directive 2) regulations, enabling third-party providers to access customer financial data securely with user consent.
+
+5. **Developer Tools and Environments**: Truist offers a sandbox environment, API Explorer, and other developer tools like Postman collections and OpenAPI/Swagger specifications to help developers test and integrate APIs effectively.
+
+For more details, you can explore Truist's [Developer Center](https://developer.truist.com/api/working-with-truist) and their API offerings on [API Tracker](https://apitracker.io/a/truist/apis)【6†source】【7†source】【8†source】【9†source】【10†source】.
+
+
+Centene Corporation offers several API services designed to facilitate the integration of healthcare data and services for third-party developers. Some of the key APIs provided by Centene include:
+
+Member Eligibility API: This API allows third-party applications to check the eligibility status of members for various healthcare services. It helps in verifying if a member is covered under a specific health plan.
+
+Provider Search API: This API enables applications to search for healthcare providers within Centene's network. It provides details about providers, including their specialties, locations, and contact information.
+
+Claims Submission API: This API allows healthcare providers and third-party applications to submit claims electronically. It supports the submission of claims data in a standardized format to streamline the claims processing workflow.
+
+Authorization API: This API is used for managing prior authorization requests for healthcare services. It helps in determining whether a particular service or treatment requires prior approval and facilitates the submission of authorization requests.
+
+Appointment Scheduling API: This API helps in managing appointment bookings for healthcare services. It provides functionalities for scheduling, rescheduling, or canceling appointments with healthcare providers.
